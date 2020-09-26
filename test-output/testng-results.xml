@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test Automation Test Suite" duration-ms="123568" started-at="2020-09-26T07:26:38Z" finished-at="2020-09-26T07:28:42Z">
+    <groups>
+    </groups>
+    <test name="Test Cases" duration-ms="123568" started-at="2020-09-26T07:26:38Z" finished-at="2020-09-26T07:28:42Z">
+      <class name="com.automation.qa.testcases.AutomationAssignmentTest">
+        <test-method status="PASS" signature="initialization()[pri:0, instance:com.automation.qa.testcases.AutomationAssignmentTest@5b275dab]" name="initialization" is-config="true" duration-ms="27086" started-at="2020-09-26T12:56:11Z" finished-at="2020-09-26T12:56:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.automation.qa.testcases.AutomationAssignmentTest@5b275dab]" name="test" duration-ms="123429" started-at="2020-09-26T12:56:38Z" finished-at="2020-09-26T12:58:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="closing()[pri:0, instance:com.automation.qa.testcases.AutomationAssignmentTest@5b275dab]" name="closing" is-config="true" duration-ms="2194" started-at="2020-09-26T12:58:42Z" finished-at="2020-09-26T12:58:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closing -->
+      </class> <!-- com.automation.qa.testcases.AutomationAssignmentTest -->
+    </test> <!-- Test Cases -->
+  </suite> <!-- Test Automation Test Suite -->
+</testng-results>
